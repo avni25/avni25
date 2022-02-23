@@ -6,7 +6,7 @@
 * ### Chatt App
   * link: https://rf-chat-3be3e.firebaseapp.com/
   * source code: https://github.com/avni25/rf-chat
-  * Keywords: __Javascript, React, react-router, Firebase, Google Authentication, material.ui__ 
+  * Keywords:  Javascript, **React**, react-router, Firebase, Google Authentication, material.ui
   * Info: Basic chat app created with REACT and Firebase. Log in with google authentication. On chat screeen last 50 messages are visible. 
   With archive button all messages can be sen with their dates and times.
  
