@@ -11,11 +11,10 @@
   * ### Keywords:  Javascript, **React**, react-router, Firebase, Google Authentication, material.ui  
  
  * ## Password Generator
-     * link: https://avni25.github.io/pass-gen/
+     * link: https://avni25.github.io/pass-gen/     
+     * source code: https://github.com/avni25/pass-gen
      * ### Keywords: Javascript, React
      * Info: 
-     * source code: https://github.com/avni25/pass-gen
-     
  
   * ## Minesweeper game
      * link: https://avni25.github.io/mineField/     
