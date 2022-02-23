@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+
+## Projects
+
+* ### Chatt App
+  * link: https://rf-chat-3be3e.firebaseapp.com/
+
+  * source code: https://github.com/avni25/rf-chat
+  * Info: 
+ 
+ * ### Password Generator
+    * link: https://avni25.github.io/pass-gen/
+    * source code: https://github.com/avni25/pass-gen
+     * Info: 
 <!--
 **avni25/avni25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
