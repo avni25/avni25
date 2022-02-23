@@ -45,6 +45,7 @@
 | 3  | Minesweeper game | https://avni25.github.io/mineField/ | https://github.com/avni25/mineField | Javascript, HTML, CSS|
 | 4  | Voice Warnings (for work) | https://avni25.github.io/tools/ | https://github.com/avni25/tools | Javascript, HTML, CSS|
 | 5  | Conatact App | java desktop app | https://github.com/avni25/Contacts | Java, SQLite|
+| 6  | Java-Arduino LED-Sensors | java desktop app | https://github.com/avni25/arduinoJavaSerialCom | Java, JSerialCom, JFreeChart|
 
 <!--
 **avni25/avni25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
