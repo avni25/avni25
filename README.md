@@ -26,7 +26,7 @@
 
 | Project  | Link           | Source Code   | Info|
 | -------- | -------------- |-------------- | ----|
-| CHat App |  https://rf-chat-3be3e.firebaseapp.com/ | https://github.com/avni25/rf-chat | |
+| Chat App |  https://rf-chat-3be3e.firebaseapp.com/ | https://github.com/avni25/rf-chat | |
 | Password Generator | https://avni25.github.io/pass-gen/ | https://github.com/avni25/pass-gen  | |
 
 
