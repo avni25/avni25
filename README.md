@@ -6,7 +6,7 @@
 | No | Project   | Link           | Source Code   | Info|
 |--- | --------  | -------------- |-------------- | ----|
 | 1  | Chat App |  https://rf-chat-3be3e.firebaseapp.com/ | https://github.com/avni25/rf-chat | Javascript, React, Firebase|
-| 2  | Sudoku Solver | https://avni25.github.io/sudoku-solver/ | https://github.com/avni25/sudoku-solver | Javascript, HTML, CSS|
+| 2  | Sudoku Solver (API) | https://avni25.github.io/sudoku-solver/ | https://github.com/avni25/sudoku-solver | API, Javascript, HTML, CSS|
 | 3  | Password Generator | https://avni25.github.io/pass-gen/ | https://github.com/avni25/pass-gen | Javascript, React|
 | 4  | Minesweeper game | https://avni25.github.io/mineField/ | https://github.com/avni25/mineField | Javascript, HTML, CSS|
 | 5  | Voice Warnings (for work) | https://avni25.github.io/tools/ | https://github.com/avni25/tools | Javascript, HTML, CSS|
