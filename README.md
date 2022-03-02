@@ -17,7 +17,7 @@ https://leetcode.com/huseyinac/
 | 7  | Java-Arduino LED-Sensors | java desktop app | https://github.com/avni25/arduinoJavaSerialCom | Java, JSerialCom, JFreeChart|
 | 8  | Java Accounting App | java desktop app | https://github.com/avni25/AccountingApp | Java, JavaFX, SQLite|
 | 9  | Ramper (allocates park position for aircrafts) | java desktop app | https://github.com/avni25/Ramper | Java, JavaFX, SQLite|
-| 10  | Auto Email read & answer & register to google sheet | Python Console App | https://github.com/avni25/slots | Python |
+| 10  | Auto Email read & answer & save to google sheet | Python Console App | https://github.com/avni25/slots | Python |
 
 
 <!--
