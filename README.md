@@ -21,7 +21,7 @@ https://leetcode.com/huseyinac/
 | 11  | Java Accounting App | java desktop app | https://github.com/avni25/AccountingApp | Java, JavaFX, SQLite|
 | 12  | Ramper (allocates park position for aircrafts) | java desktop app | https://github.com/avni25/Ramper | Java, JavaFX, SQLite|
 | 13  | Auto Email read & answer & save to google sheet | Python Console App | https://github.com/avni25/slots | Python |
-
+| 14 | Arduino - Twitter APIs | Python desktop app with pyqt5 | https://github.com/avni25/twit-ard-con | Python, PyQt5| 
 
 <!--
 **avni25/avni25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
